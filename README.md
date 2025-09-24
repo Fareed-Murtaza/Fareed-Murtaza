@@ -1,14 +1,19 @@
 <div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="250"/>
   <div>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="250"/>
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20015f&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;5+Years+of+Expereince;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  </div>
+  <div align="center">
     <a href="https://github.com/FareedMurtaza">
-      <img src="https://komarev.com/ghpvc/?username=FareedMurtaza&color=red" alt="profile views" />
+      <img src="https://komarev.com/ghpvc/?username=FareedMurtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
     </a>
     <a href="https://www.linkedin.com/in/fareed-murtaza-4a0173136">
-      <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-9.7K-blue?color=blue&logo=linkedin">
+      <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-9.7K-blue?color=0dcbf2&logo=linkedin&style=for-the-badge">
     </a>
     <a href="https://stackoverflow.com/users/14747241">
-      <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14747241?color=orange&label=reputation&logo=stackoverflow">
+      <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14747241?color=0dcbf2&label=reputation&logo=stackoverflow&style=for-the-badge">
     </a>
   </div>
 </div>
@@ -16,14 +21,17 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> Greetings, this is Fareed!
 
 
-I wrote my first line of code at the age of 12. Since then, I never stopped coding. 
+I wrote my first line of code at the age of 12. Since then, I never stopped coding and have evolved into a Senior Full-Stack Software Engineer with a passion for building innovative solutions and exploring cutting-edge technologies.
 - 🚀 Senior Software Engineer | 5 Years Experience 🛠️
-- 🤝 I'm open to collaborating on anything interesting 💫
-- 🧠 Learning new things and stay up-to-date with latest trends 🌎
-- 🔧 Problem Solver | Self-taught 📚 | Coffee Lover ☕
-- 📊 Transforming Concepts into Scalable Solutions 📈
+- 🤖 AI Integration Specialist | OpenAI, GPT, Machine Learning 🧠
+- ☁️ Cloud Architect | AWS, Docker, Monorepo Architecture, Microservices 🌐
+- 🤝 Open to Collaborating on exciting projects 💫
+- 🔧 Problem Solver | Self-taught | Coffee Lover ☕
+- 📈 Transforming Ideas into Scalable Solutions 🚀
 - 🔗 Connecting Pixels and Code | Creating Digital Magic ✨
 - 🏆 Passion for Innovation | Building Tomorrow's Web Today 🌟
+- 🧠 Learning new things and stay up-to-date with latest trends 🌎
+
 
 
 ## 💻 Tech Stack:
@@ -67,9 +75,11 @@ Servers:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
 
 
+## 📫 Let's Connect & Collaborate
 
-## 📫 How to reach me:
-<p>
+<div align="center">
+  <p>Ready to build something amazing together? Let's connect!</p>
+  
   <a href="mailto:fareedmurtaza91@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -82,10 +92,21 @@ Servers:
   <a href="https://twitter.com/FareedMurtaza4" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <h3>💼 Open to Opportunities</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Remote%20Work-Open%20to%20Remote-blue?style=for-the-badge" alt="Remote Work" />
+    <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Ideas-purple?style=for-the-badge" alt="Collaboration" />
+  </p>
+</div>
 
 
-## ✍️ Today's Quote
+
+## ✍️ Daily Inspiration
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=100&section=footer" alt="Footer" />
 </div>
