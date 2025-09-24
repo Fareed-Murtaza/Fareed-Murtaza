@@ -108,5 +108,7 @@ Servers:
 ## ✍️ Daily Inspiration
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote"/>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=100&section=footer" alt="Footer" />
 </div>
