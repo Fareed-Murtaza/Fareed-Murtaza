@@ -7,7 +7,7 @@
   </div>
   <div align="center">
     <a href="https://github.com/Fareed-Murtaza">
-      <img src="https://komarev.com/ghpvc/?username=Fareed-Murtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
+      <img src="https://komarev.com/ghpvc/?username=FareedMurtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
     </a>
     <a href="https://www.linkedin.com/in/fareed-murtaza-4a0173136">
       <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-9.9K-blue?color=0dcbf2&logo=linkedin&style=for-the-badge">
