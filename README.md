@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20015f&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;5+Years+of+Expereince;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </div>
   <div align="center">
-    <a href="https://github.com/FareedMurtaza">
-      <img src="https://komarev.com/ghpvc/?username=FareedMurtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
+    <a href="https://github.com/Fareed-Murtaza">
+      <img src="https://komarev.com/ghpvc/?username=Fareed-Murtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
     </a>
     <a href="https://www.linkedin.com/in/fareed-murtaza-4a0173136">
       <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-9.9K-blue?color=0dcbf2&logo=linkedin&style=for-the-badge">
