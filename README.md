@@ -10,7 +10,7 @@
       <img src="https://komarev.com/ghpvc/?username=FareedMurtaza&color=0dcbf2&style=for-the-badge" alt="profile views" />
     </a>
     <a href="https://www.linkedin.com/in/fareed-murtaza-4a0173136">
-      <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-9.9K-blue?color=0dcbf2&logo=linkedin&style=for-the-badge">
+      <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-10K-blue?color=0dcbf2&logo=linkedin&style=for-the-badge">
     </a>
     <a href="https://stackoverflow.com/users/14747241">
       <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14747241?color=0dcbf2&label=reputation&logo=stackoverflow&style=for-the-badge">
