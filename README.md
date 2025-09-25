@@ -3,7 +3,7 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="250"/>
   </div>
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20015f&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;5+Years+of+Expereince;Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=20015f&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;5+Years+of+Expereince;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </div>
   <div align="center">
     <a href="https://github.com/Fareed-Murtaza">
