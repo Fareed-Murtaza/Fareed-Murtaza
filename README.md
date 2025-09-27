@@ -86,13 +86,12 @@ I wrote my first line of code at the age of 12. Since then, I never stopped codi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff) 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff) 
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=fff) 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
+### ✅ Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)  
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff)  
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=fff)  
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=fff)    
+![Enzyme](https://img.shields.io/badge/Enzyme-3A3A3A?style=for-the-badge&logo=airbnb&logoColor=fff)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff) 
