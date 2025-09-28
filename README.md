@@ -86,13 +86,6 @@ I wrote my first line of code at the age of 12. Since then, I never stopped codi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff)
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff) 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff) 
-![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=fff) 
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=fff) 
-![Enzyme](https://img.shields.io/badge/Enzyme-3A3A3A?style=for-the-badge&logo=airbnb&logoColor=fff) 
-
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff) 
@@ -103,6 +96,13 @@ I wrote my first line of code at the age of 12. Since then, I never stopped codi
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff) 
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff) 
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=fff) 
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=fff) 
+![Enzyme](https://img.shields.io/badge/Enzyme-3A3A3A?style=for-the-badge&logo=airbnb&logoColor=fff) 
 
 ### 🔧 Tools & Extras
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
